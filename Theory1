@@ -3,5 +3,4 @@ android application development has 4 main components
 2. Service
 3.BroadCastReciever
 4.Content Provider
-
 it is important to keep in mind these 4 components
